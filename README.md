@@ -26,3 +26,4 @@ Cumulative Returns Visualization: Cumulative returns were plotted to compare the
 ## Conclusion
 The analysis indicates that all three stocks have shown varying degrees of performance over the past 10 years. Cumulative returns highlight the growth trajectory of each stock, providing insights into their historical performance. This can aid in making informed investment decisions based on past trends.
 
+![output](https://github.com/user-attachments/assets/33313dfb-9a7f-4ac5-851a-0bce67e1cda8)
