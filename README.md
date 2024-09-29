@@ -6,11 +6,6 @@
 
 This repository contains a Jupyter Notebook for analyzing the stock performance of three major companies listed on the Nifty 50 index: Reliance Industries Limited (RIL), HDFC Bank, and Tata Consultancy Services (TCS). The analysis covers the past 10 years and includes visualizations of daily and cumulative returns.
 
-## Contents
-
-- **Stock_Analysis.ipynb**: Jupyter Notebook containing the analysis.
-- **requirements.txt**: A file listing the necessary Python libraries for the analysis.
-
 ## Libraries Used
 
 - **Pandas**: For data manipulation and analysis.
